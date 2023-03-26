@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.diogonunes.jcolor">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../JColor/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../JColor/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
